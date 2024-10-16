@@ -5,6 +5,7 @@ public class Address {
 	String area;
 	String dist;
 	String pinCode;
+
 	public Address(String plotNo, String area, String dist, String pinCode) {
 		this.plotNo = plotNo;
 		this.area = area;
